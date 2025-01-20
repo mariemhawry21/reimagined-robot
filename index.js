@@ -6,3 +6,4 @@ function Asmaa(a,b){
 }
 
 console.log(Asmaa(3,8))
+var x= Asmaa()

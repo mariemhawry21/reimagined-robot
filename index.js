@@ -6,3 +6,6 @@ function Asmaa(a,b){
 }
 
 console.log(Asmaa(3,8))
+function radwa(a){
+    return a*a;
+}
